@@ -4,13 +4,13 @@ A robust Django-based FAQ management system supporting multiple languages, autom
 
 ## Key Features
 
-✔️ Full CRUD functionality for FAQ management
-✔️ Automatic language translation via Google Translate API
-✔️ High-speed performance with Redis caching
-✔️ Supports multiple languages, including English, Hindi, and Bengali
-✔️ RESTful API with language-based filtering for easy data retrieval
-✔️ Django Admin integration for streamlined FAQ management
-✔️ Effortless deployment using Docker
+ - ✔️ Full CRUD functionality for FAQ management
+ - ✔️ Automatic language translation via Google Translate API
+ - ✔️ High-speed performance with Redis caching
+ - ✔️ Supports multiple languages, including English, Hindi, and Bengali
+ - ✔️ RESTful API with language-based filtering for easy data retrieval
+ - ✔️ Django Admin integration for streamlined FAQ management
+ - ✔️ Effortless deployment using Docker
 
 ---
 
